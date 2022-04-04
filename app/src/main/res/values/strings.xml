@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PrognozPogody_Bashkirov</string>
+    <string name="NameCity">Новосибирск</string>
+    <string name="Temp">5℃</string>
+    <string name="Menu">Button</string>
+    <string name="OpisaniePogody">Преимущественно солнечно</string>
+    <string name="MaxMin">Макс: 6°, Мин: 0°</string>
+</resources>
